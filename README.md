@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bagdasar13" target="blank"><img src="https://img.shields.io/twitter/follow/bagdasar13?logo=twitter&style=for-the-badge" alt="bagdasar13" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ovsepyan.com.ua/](https://ovsepyan.com.ua/)
+- 👨‍💻 All of my projects are available at [https://www.ovsepyan.com.ua/](https://www.ovsepyan.com.ua/)
 
 - 📫 How to reach me **bagdasar@ovsepyan.com.ua**
 
