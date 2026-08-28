@@ -1,19 +1,91 @@
-<h1 align="center">Hi 👋, I'm Bagdasar</h1>
-<h3 align="center">I am a Full-Stack Developer living in Kyiv, UA.</h3>
+<h1 align="center">Bahdasar Ovsepian</h1>
+<p align="center">Front-end developer building data-heavy web products — esports and livestreaming analytics.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b-ovsepian&label=Profile%20views&color=0e75b6&style=flat" alt="b-ovsepian" /> </p>
+<p align="center">
+  <a href="https://ovsepyan.com.ua/"><img src="https://img.shields.io/badge/Website-ovsepyan.com.ua-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/bahdasar-ovsepian/"><img src="https://img.shields.io/badge/LinkedIn-bahdasar--ovsepian-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/Suzuya_re1"><img src="https://img.shields.io/badge/Telegram-@Suzuya__re1-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://twitter.com/Bagdasar13"><img src="https://img.shields.io/badge/X-@Bagdasar13-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:bagdasar@ovsepyan.com.ua"><img src="https://img.shields.io/badge/Email-bagdasar@ovsepyan.com.ua-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-ovsepian" alt="b-ovsepian" /></a> </p>
+---
 
-- 👨‍💻 All of my projects are available at [https://www.ovsepyan.com.ua/](https://www.ovsepyan.com.ua/)
+### About
 
-- 📫 How to reach me **bagdasar@ovsepyan.com.ua**
+I lead the front-end at [AWERTI](https://awerti.com/), a livestreaming analytics company in Kyiv. Day to day that means turning ClickHouse-scale datasets — millions of hours of watch time across Twitch, YouTube, Kick, TikTok and the Chinese platforms — into dashboards, comparison views and report exports that people actually enjoy using.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+The work sits on two stacks at once: Laravel with Livewire, Blade, Tailwind and Alpine on one side, Nuxt 4 with Vue 3 and TypeScript on the other. A good part of the last year has been migrating products from the first to the second — onto Cloudflare Workers, stage by stage, without ever taking the live sites offline.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-ovsepian&show_icons=true&locale=en&layout=compact" alt="b-ovsepian" /></p>
+I like the parts of the job that sit between disciplines: agreeing on an API contract with the back-end, chasing a Core Web Vitals regression, QA-ing on a real iOS WebKit engine instead of trusting Chrome's emulator, or building internal tooling so the whole team ships faster.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-ovsepian&show_icons=true&locale=en" alt="b-ovsepian" /></p>
+### Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-ovsepian&" alt="b-ovsepian" /></p>
+**Front-end**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+
+**Back-end**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Data & infra**
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+
+**Quality**
+![Pest](https://img.shields.io/badge/Pest-4E56A6?style=flat-square&logo=pest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
+
+### Products I work on
+
+| Product | What it does | Stack |
+| --- | --- | --- |
+| [Esports Charts](https://escharts.com/) | Live viewership of esports tournaments, teams and players | Laravel · Livewire · ClickHouse |
+| [Streams Charts](https://streamscharts.com/) | Livestreaming analytics across Twitch, YouTube, Kick, TikTok, Trovo | Laravel · Livewire · ClickHouse · Elasticsearch |
+| [ChessWatch](https://chesswatch.com/) | Everything about chess popularity online | Nuxt 4 · Vue 3 · ClickHouse · CF Workers |
+| [TikTok Stats](https://tiktokstats.com/) | TikTok LIVE trends, compared against other platforms | Nuxt 4 · Vue 3 · ClickHouse · CF Workers |
+| [Visit Esports](https://visitesports.com/) | Discover esports tournaments, LAN events and venues by location | Nuxt 4 · Vue 3 · CF Workers |
+| [Stream Awards](https://streamawards.ua/) | Ukrainian streaming awards — nominations, voting, results | Nuxt 4 · Typesense · Twitch OAuth |
+| [DoHuya](https://dohuya.com/) | Analytics for DouYu, Huya, Bilibili and CC163 | Laravel · Livewire · Nuxt |
+| [Twitch Stats extension](https://chromewebstore.google.com/detail/twitch-stats-by-streams-c/jbcklblmgdbpagndcggcjnhnoocibnmk) | Streams Charts data on the Twitch page — viewers, followers, subs. Chrome & Firefox | Vue 3 · Vuex · TypeScript · Vite |
+
+### Side projects
+
+| Project | What it is |
+| --- | --- |
+| [dahua-audit](https://github.com/b-ovsepian/dahua-audit) | Read-only security audit for Dahua IP cameras — finds rogue botnet accounts, flags risky settings. Zero dependencies, single-file binaries for Win/macOS/Linux. |
+| [hid-to-com-bridge](https://github.com/b-ovsepian/hid-to-com-bridge) | Bridges a USB HID barcode/RFID scanner to a virtual serial port, so legacy apps expecting a COM/TTY can read it. Python + systemd. |
+| [Instax Frame](https://instax-frame.vercel.app/) | Trilingual storefront for instant-photo frames. Next.js + shadcn/ui, tuned for Core Web Vitals. |
+| [Shostka Shelters](https://shostka-shelters.vercel.app/) | Interactive map helping Shostka residents find nearby shelters during air raids. |
+
+### Beyond code
+
+MSc in Esports (with honours) from the National University of Ukraine on Physical Education and Sport — thesis on how streaming platforms shape the popularity of esports, plus two co-authored conference papers on the same question. An odd pairing on paper, a useful one in practice: most arguments worth having at work are about what a viewership number actually means.
+
+### Get in touch
+
+Open to interesting front-end work, and happy to talk about analytics dashboards, Livewire → Nuxt migrations, or anything esports-adjacent.
+
+- 📧 **Email** — [bagdasar@ovsepyan.com.ua](mailto:bagdasar@ovsepyan.com.ua) *(the surest way to reach me)*
+- 💬 **Telegram** — [@Suzuya_re1](https://t.me/Suzuya_re1)
+- 💼 **LinkedIn** — [bahdasar-ovsepian](https://www.linkedin.com/in/bahdasar-ovsepian/)
+- 🐦 **X** — [@Bagdasar13](https://twitter.com/Bagdasar13)
+- 🌐 **Portfolio** — [ovsepyan.com.ua](https://ovsepyan.com.ua/) · [CV in PDF](https://ovsepyan.com.ua/resume.pdf)
+
+Usually reply within a day. Based in Kyiv, UA (UTC+2/+3).
